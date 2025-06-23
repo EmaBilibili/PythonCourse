@@ -4,5 +4,4 @@ mi_diccionario = {
     "naranja": "naranja"
 }
 
-# Puedes imprimir el diccionario para verificar su contenido
 print(mi_diccionario)
